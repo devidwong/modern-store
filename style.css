@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+}
+.container {
+  width: 1280px;
+  margin: 0 auto;
+  display: flex;
+}
+.header {
+  flex-grow: 1;
+}
+.search {
+  text-align: center;
+}
+.icons{
+  text-align: right;
+}
